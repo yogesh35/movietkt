@@ -7,8 +7,8 @@ import os
 # ==========================
 
 URL = "https://in.bookmyshow.com/movies/chennai/spider-man-brand-new-day/buytickets/ET00502600/20260730?etCodes=ET00502600&language=english&refEventCode=ET00502600"
-
-THEATRE = "INOX The Marina Mall, OMR, Chennai"
+THEATRE="MAYAJAAL Multiplex: ECR, Chennai"
+#THEATRE = "INOX The Marina Mall, OMR, Chennai"
 
 # ==========================
 
