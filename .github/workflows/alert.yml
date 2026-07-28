@@ -2,7 +2,7 @@ name: Movie Ticket Alert
 
 on:
   schedule:
-    - cron: "*/5 * * * *"   # Every 5 minutes
+    - cron: "*/15 * * * *"   # Every 5 minutes
   workflow_dispatch:
 
 jobs:
